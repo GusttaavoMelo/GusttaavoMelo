@@ -14,7 +14,7 @@
 </p>
 
  <div align="center">  
- <img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white">
+ 
 </div>
   
 ### Main skills:
