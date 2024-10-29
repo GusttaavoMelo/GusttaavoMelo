@@ -25,7 +25,7 @@
 
  
 ### Tools:
-![WIX](https://img.shields.io/badge/-Wix-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![WIX](https://img.shields.io/badge/-Wix-0D1117?style=for-the-badge&logo=wix&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Notepad++](https://img.shields.io/badge/-Notepad++-0D1117?style=for-the-badge&logo=notepad++&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
