@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+De+Melo;I'm+19+years+old;I+am+from+São+Paulo,+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GusttaavoMelo&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=40E0D0&text_color=C0C0C0&bg_color=0d1117" alt="Gustavo de Melo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GusttaavoMello&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=40E0D0&text_color=C0C0C0&bg_color=0d1117" alt="Gustavo de Melo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttaavoMelo&layout=compact&hide_border=true&title_color=4682B4&text_color=C0C0C0&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GusttaavoMelo&bg_color=00000&color=4682B4&line=4169E1&point=40E0D0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GusttaavoMello&bg_color=00000&color=4682B4&line=4169E1&point=40E0D0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GusttaavoMelo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
