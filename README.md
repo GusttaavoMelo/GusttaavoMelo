@@ -4,7 +4,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a Front-End Developer focused on creating modern, functional, and responsive digital experiences. I hold a degree as a Computer Technician for the Internet from ETEC Poá, and I have a solid foundation in HTML, CSS, JavaScript, and React.js. I also work with tools and frameworks like Bootstrap and Sass to build elegant, high-performance interfaces.
 
